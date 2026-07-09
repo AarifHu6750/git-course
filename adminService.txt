@@ -1,1 +1,2 @@
-Create admin platfor for users
+Create admin platform for users
+change the roles
